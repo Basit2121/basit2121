@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/basit192" target="blank"><img src="https://img.shields.io/twitter/follow/basit192?logo=twitter&style=for-the-badge" alt="basit192" /></a> </p>
 
-- 🌱 I’m currently learning **Reverse Engineering, Memory manipulation**
+- 🌱 I’m currently learning **reverse engineering and memory manipulation**
 
 - 📫 How to reach me **basitcarry@proton.me**
 
